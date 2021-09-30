@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dominictembo
-- 👀 I’m interested in readingand programming
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in reading and programming
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tembodominic183@gmail.com
 
 <!---
 dominictembo/dominictembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
